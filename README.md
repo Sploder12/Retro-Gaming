@@ -1,4 +1,4 @@
-# Python-Game-Cabinet
+# Retro-Gaming
 <features>
 <table>
   <tr>
