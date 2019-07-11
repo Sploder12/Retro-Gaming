@@ -34,7 +34,7 @@
 </features>
   
 <costs>
-  <h2>Total Cost: $N/A</h2>
+  <h2>Subtotal: $N/A</h2>
   <table>
     <tr>
       <th>Part</th>
